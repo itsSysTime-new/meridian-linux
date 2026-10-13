@@ -15,8 +15,10 @@ The distribution will also include base-devel, allowing users to begin developin
 Please expect release anywhere from October 26 to December 14, as this is a new emergent project created by me (a solo developer) while trying to get some attention too while major distros like CachyOS and EndeavourOS have a lot. Documentation may not be much as the project emerges, while contributions such as instructions on how this project will be possible are majorly appreciated.
 
 ### Architectures supported
-&#x2612; 32-bit (i386, i686, i486)
-
 &#x2611; x86_64
 
-&#x2610; AArch64 (ARM64)
+&#x2610; ARM-based (AArch64 and ARM32) _(Planned after stabilizing the 64-bit release)_
+
+&#x2612; 32-bit (i386, i686, i486)
+
+&#x2612; RISC-V
