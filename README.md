@@ -14,7 +14,7 @@ The distribution will also include `base-devel`, allowing users to begin develop
 With Meridian Linux, our philosophy is providing practicality and minimalism. While other distributions may remake Arch Linux or be too similar to it, I want to strike a balance with this project as a new developer. Meridian Linux symbolizes navigating and discovering your system, while having its challenges and breathtaking aspects like a mountain peak or traveling an actual meridian.
 
 ## Releases and my story
-Please expect release in late 2026, as this is a new emergent project created by me (a solo developer) while trying to get some attention too while major distributions like CachyOS and EndeavourOS have a lot. Documentation may not be much as the project emerges, while contributions are majorly appreciated.
+Please expect release in late 2026, as this is a new emerging project I created as a solo developer. Documentation may not be much as the project emerges, while contributions are majorly appreciated.
 
 ### Architecture roadmap
 &#x2611; x86_64
