@@ -24,3 +24,8 @@ Please expect release in late 2026, as this is a new emergent project created by
 &#x2612; 32-bit - i386, i686, i486
 
 &#x2612; RISC-V
+
+### AArch64 plan
+Because Arch Linux has no official mainstream ARM64 distributions, I will consider these options AFTER the x86_64 release is stable:
+1. Base it on Arch Linux ARM (ALARM) - A community-maintained port of Arch Linux for AArch64 and ARM32 based systems, most likely path
+2. Base it on Asahi Linux - Great mainstream ARM64 support, but the only problem is making two architectures have different kernels, package managers and documentation. Very unlikely choice unless I have to.
