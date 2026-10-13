@@ -1,4 +1,4 @@
-![First version logo](meridian.svg)
+![First version logo](meridian_workmark2.svg)
 # Meridian GNU/Linux
 A derivative of Arch Linux that comes ready to use with Paru, drivers, and practicality in a TUI setup program.
 Based on the `archiso` bootable environment for live media, this distribution is intended for practicality and usage out of the box while being lightweight.
