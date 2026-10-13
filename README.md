@@ -16,7 +16,7 @@ With Meridian Linux, our philosophy is providing practicality and minimalism. Wh
 ## Releases and my story
 Please expect release in late 2026, as this is a new emergent project created by me (a solo developer) while trying to get some attention too while major distributions like CachyOS and EndeavourOS have a lot. Documentation may not be much as the project emerges, while contributions are majorly appreciated.
 
-### Architectures supported
+### Architecture roadmap
 &#x2611; x86_64
 
 &#x2610; AArch64 - Planned after stabilizing the 64-bit release
